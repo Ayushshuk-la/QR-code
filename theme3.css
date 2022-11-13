@@ -1,0 +1,7 @@
+body{ 
+    /* main background-color: ?; */
+    --bodybackgroundcolor:hsl(108deg 70% 66% / 99%);
+
+    /* bgcolor of main */
+    --mainbgcolor:rgb(226 205 47);
+}
